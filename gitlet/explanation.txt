@@ -1,6 +1,0 @@
-Sorry all instructors and graders in cs61b,
-
-We have to submit our project 1 day late after the deadline. 
-The fact is that we spent too much time on the methods before "merge" method, 
-and had too little time to think about the structures and complicated cases in "merge" method.
-Fortunately, we find the structure of "merge" very clear after we organized the cases. 
